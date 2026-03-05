@@ -1,5 +1,6 @@
 
 1) Singly Linear Linked List
+   
 🔹 Definition
 
 In a Singly Linked List, each node contains:
